@@ -1,0 +1,96 @@
+c:\users\tomga\documents\visual studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe.config
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.pdb
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.xml
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.vbprojResolveAssemblyReference.cache
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form1.resources
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Resources.resources
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.vbproj.GenerateResource.Cache
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.exe
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.xml
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.pdb
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form2.resources
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.SplashScreen1.resources
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.AboutBox1.resources
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.LoginForm1.resources
+C:\Users\tomga\Documents\Visual Studio 2015\Projects\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.MDIParent2.resources
+G:\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe.config
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.exe
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.xml
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.pdb
+G:\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe
+G:\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.pdb
+G:\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.xml
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.vbprojResolveAssemblyReference.cache
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.AboutBox1.resources
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form1.resources
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form2.resources
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.LoginForm1.resources
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Resources.resources
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.SplashScreen1.resources
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.vbproj.GenerateResource.Cache
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form3.resources
+G:\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form4.resources
+C:\Users\tomga\Desktop\progetti\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe.config
+C:\Users\tomga\Desktop\progetti\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.exe
+C:\Users\tomga\Desktop\progetti\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.xml
+C:\Users\tomga\Desktop\progetti\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.pdb
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe.config
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.exe
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.xml
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.pdb
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.pdb
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.xml
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.vbprojResolveAssemblyReference.cache
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.AboutBox1.resources
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form1.resources
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form2.resources
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form3.resources
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form4.resources
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.LoginForm1.resources
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Resources.resources
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Registrazione.resources
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.SplashScreen1.resources
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.vbproj.GenerateResource.Cache
+C:\Users\tommy-PC\Desktop\PROGETTI\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.gestutente.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe.config
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.exe
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.xml
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.pdb
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.pdb
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.xml
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.vbprojResolveAssemblyReference.cache
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.AboutBox1.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form1.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form2.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form3.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form4.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.gestutente.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.LoginForm1.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Resources.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Registrazione.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.SplashScreen1.resources
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.vbproj.GenerateResource.Cache
+C:\Users\vladi\Desktop\OrizzionteEventi (1)\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form5.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe.config
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.exe
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.xml
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.pdb
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.exe
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.pdb
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\bin\Debug\OrizzionteEventi.xml
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.vbprojResolveAssemblyReference.cache
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.AboutBox1.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form1.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form2.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form3.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form4.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Form5.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.gestutente.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.LoginForm1.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Resources.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.Registrazione.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.SplashScreen1.resources
+C:\Users\tomga\Desktop\OrizzionteEventi\OrizzionteEventi\obj\Debug\OrizzionteEventi.vbproj.GenerateResource.Cache
